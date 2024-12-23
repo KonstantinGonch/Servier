@@ -37,6 +37,11 @@ function ReportPage() {
         getShops();
     }, []);
 
+    useEffect(() => {
+        getSalesIncreaseReport(divisionFilter);
+        getYearlyIncreaseReport(itemFilter, shopFilter);
+    }, [shopFilter, itemFilter, divisionFilter])
+
     return (
         <div>
             <h1 id="tableLabel">Отчеты о продажах</h1>
