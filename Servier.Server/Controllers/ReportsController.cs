@@ -25,7 +25,7 @@ namespace Servier.Server.Controllers
 
 		[HttpGet]
 		[Route("getSalesIncrease")]
-		public async Task<IEnumerable<SalesIncreaseReportItem>> GetSalesIncreaseReport([FromQuery] DivisionType divisionType)
+		public async Task<IEnumerable<SalesIncreaseReportItem>> GetSalesIncreaseReport([FromQuery] DivisionType divisionType = DivisionType.ByItem)
 		{
 			var report = _reportProvider.GetSalesIncreaseReport(divisionType);
 			return report;
@@ -33,7 +33,7 @@ namespace Servier.Server.Controllers
 
 		[HttpGet]
 		[Route("getYearlyIncrease")]
-		public async Task<IEnumerable<ReportItemIncreaseByYears>> GetYearlyIncreaseReport([FromQuery] string byItem, [FromQuery] string byShop)
+		public async Task<IEnumerable<ReportItemIncreaseByYears>> GetYearlyIncreaseReport([FromQuery] string byItem = null, [FromQuery] string byShop = null)
 		{
 			var report = _reportProvider.GetYearlyIncreaseReportData(byItem, byShop);
 			return report;

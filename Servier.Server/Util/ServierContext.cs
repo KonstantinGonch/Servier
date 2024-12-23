@@ -5,7 +5,6 @@ namespace Servier.Server.Util
 {
     public class ServierContext : DbContext
     {
-		public DbSet<DataFile> DataFiles { get; set; }
 		public ServierContext()
 		{
 			Database.EnsureCreated();
