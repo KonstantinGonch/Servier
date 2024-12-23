@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\reportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\reportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\components\\reports\\reportpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\components\\reports\\reportpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\models\\salesincreasereportitem.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\models\\salesincreasereportitem.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\controllers\\shopitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\controllers\\shopitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\controllers\\shopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\controllers\\shopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\components\\reports\\reportpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\components\\reports\\reportpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\shopitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\shopitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\ishopitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\ishopitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\components\\charts\\yearlyincreasechart.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\components\\charts\\yearlyincreasechart.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\components\\charts\\salesincreasechart.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\components\\charts\\salesincreasechart.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\components\\charts\\yearlyincreasechart.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\components\\charts\\yearlyincreasechart.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\reportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\reportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\reportfilestoragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\models\\reportitemincreasebyyears.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\models\\reportitemincreasebyyears.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\models\\salesincreasereportitem.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\models\\salesincreasereportitem.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\serviercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\data\\data.csv||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -110,11 +134,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopsController.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ShopsController.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Controllers\\ShopsController.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ShopsController.cs",
+              "RelativeToolTip": "Servier.Server\\Controllers\\ShopsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:02:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ShopItemsController.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Controllers\\ShopItemsController.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ShopItemsController.cs",
+              "RelativeToolTip": "Servier.Server\\Controllers\\ShopItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:59:14.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ShopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ShopRepository.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Util\\ShopRepository.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ShopRepository.cs",
+              "RelativeToolTip": "Servier.Server\\Util\\ShopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:55:56.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShopItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ShopItemRepository.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Util\\ShopItemRepository.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ShopItemRepository.cs",
+              "RelativeToolTip": "Servier.Server\\Util\\ShopItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:52:56.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IShopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\IShopRepository.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Util\\IShopRepository.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\IShopRepository.cs",
+              "RelativeToolTip": "Servier.Server\\Util\\IShopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:52:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Servier.Server\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:58:24.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Program.cs",
+              "RelativeToolTip": "Servier.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:04:46.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportPage.tsx",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Reports\\ReportPage.tsx",
+              "RelativeDocumentMoniker": "servier.client\\src\\components\\Reports\\ReportPage.tsx",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Reports\\ReportPage.tsx",
+              "RelativeToolTip": "servier.client\\src\\components\\Reports\\ReportPage.tsx",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-22T18:52:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesIncreaseReportItem.ts",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\models\\SalesIncreaseReportItem.ts",
+              "RelativeDocumentMoniker": "servier.client\\src\\models\\SalesIncreaseReportItem.ts",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\models\\SalesIncreaseReportItem.ts",
+              "RelativeToolTip": "servier.client\\src\\models\\SalesIncreaseReportItem.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-23T17:02:07.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShopItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\IShopItemRepository.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Util\\IShopItemRepository.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\IShopItemRepository.cs",
+              "RelativeToolTip": "Servier.Server\\Util\\IShopItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:51:53.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ReportItemIncreaseByYears.ts",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\models\\ReportItemIncreaseByYears.ts",
               "RelativeDocumentMoniker": "servier.client\\src\\models\\ReportItemIncreaseByYears.ts",
@@ -127,72 +281,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SalesIncreaseReportItem.ts",
-              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\models\\SalesIncreaseReportItem.ts",
-              "RelativeDocumentMoniker": "servier.client\\src\\models\\SalesIncreaseReportItem.ts",
-              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\models\\SalesIncreaseReportItem.ts",
-              "RelativeToolTip": "servier.client\\src\\models\\SalesIncreaseReportItem.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-12-23T17:02:07.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "YearlyIncreaseChart.tsx",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Charts\\YearlyIncreaseChart.tsx",
               "RelativeDocumentMoniker": "servier.client\\src\\components\\Charts\\YearlyIncreaseChart.tsx",
               "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Charts\\YearlyIncreaseChart.tsx",
               "RelativeToolTip": "servier.client\\src\\components\\Charts\\YearlyIncreaseChart.tsx",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-12-23T16:59:33.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "SalesIncreaseChart.tsx",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Charts\\SalesIncreaseChart.tsx",
               "RelativeDocumentMoniker": "servier.client\\src\\components\\Charts\\SalesIncreaseChart.tsx",
               "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Charts\\SalesIncreaseChart.tsx",
               "RelativeToolTip": "servier.client\\src\\components\\Charts\\SalesIncreaseChart.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-12-23T16:59:12.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "ReportProvider.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ReportProvider.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Util\\ReportProvider.cs",
               "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ReportProvider.cs",
               "RelativeToolTip": "Servier.Server\\Util\\ReportProvider.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T19:14:29.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReportPage.tsx",
-              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Reports\\ReportPage.tsx",
-              "RelativeDocumentMoniker": "servier.client\\src\\components\\Reports\\ReportPage.tsx",
-              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Reports\\ReportPage.tsx",
-              "RelativeToolTip": "servier.client\\src\\components\\Reports\\ReportPage.tsx",
-              "ViewState": "AgIAABcAAAAAAAAAAAASwBoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-12-22T18:52:35.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "ReportFileStorageManager.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ReportFileStorageManager.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Util\\ReportFileStorageManager.cs",
@@ -205,20 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReportsController.cs",
-              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ReportsController.cs",
-              "RelativeDocumentMoniker": "Servier.Server\\Controllers\\ReportsController.cs",
-              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ReportsController.cs",
-              "RelativeToolTip": "Servier.Server\\Controllers\\ReportsController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:58:24.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "ServierContext.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ServierContext.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Util\\ServierContext.cs",
@@ -231,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "IReportProvider.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\IReportProvider.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Util\\IReportProvider.cs",
@@ -244,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "SalesItem.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Models\\SalesItem.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Models\\SalesItem.cs",
@@ -257,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\App.tsx",
               "RelativeDocumentMoniker": "servier.client\\src\\App.tsx",
@@ -269,20 +384,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\package.json",
               "RelativeDocumentMoniker": "servier.client\\package.json",
               "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\package.json",
               "RelativeToolTip": "servier.client\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-22T18:23:05.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "data.csv",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Data\\data.csv",
               "RelativeDocumentMoniker": "Servier.Server\\Data\\data.csv",
@@ -295,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\appsettings.json",
               "RelativeDocumentMoniker": "Servier.Server\\appsettings.json",
@@ -308,20 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Program.cs",
-              "RelativeDocumentMoniker": "Servier.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Program.cs",
-              "RelativeToolTip": "Servier.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T05:04:46.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "data.csv",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Data\\data.csv",
               "RelativeDocumentMoniker": "Servier.Server\\Data\\data.csv",
@@ -334,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "IReportFileStorageManager.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\IReportFileStorageManager.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Util\\IReportFileStorageManager.cs",
@@ -346,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "react-dom.development.js",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
               "RelativeDocumentMoniker": "servier.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
@@ -358,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "servier.client.esproj",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\servier.client.esproj",
               "RelativeDocumentMoniker": "servier.client\\servier.client.esproj",
@@ -370,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "vite.config.ts",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\vite.config.ts",
               "RelativeDocumentMoniker": "servier.client\\vite.config.ts",
@@ -382,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "vite-env.d.ts",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\vite-env.d.ts",
               "RelativeDocumentMoniker": "servier.client\\src\\vite-env.d.ts",
@@ -394,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Servier.Server.csproj",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Servier.Server.csproj",
               "RelativeDocumentMoniker": "Servier.Server\\Servier.Server.csproj",
@@ -406,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "main.tsx",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\main.tsx",
               "RelativeDocumentMoniker": "servier.client\\src\\main.tsx",
@@ -418,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\App.css",
               "RelativeDocumentMoniker": "servier.client\\src\\App.css",

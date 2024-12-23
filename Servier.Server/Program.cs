@@ -7,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddSingleton<IReportFileStorageManager, ReportFileStorageManager>();
 builder.Services.AddScoped<IReportProvider, ReportProvider>();
+builder.Services.AddScoped<IShopItemRepository, ShopItemRepository>();
+builder.Services.AddScoped<IShopRepository, ShopRepository>();
 
 builder.Services.AddCors();
 

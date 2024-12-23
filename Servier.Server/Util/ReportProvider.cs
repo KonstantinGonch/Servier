@@ -39,7 +39,7 @@ namespace Servier.Server.Util
 			{
 				Year = e.Key,
 				SalesSum = e.Sum(el => el.ValueCount),
-				Percentage = (e.Where(el => el.FinYear == 2025).Sum(el => el.ValueCount) / e.Where(el => el.FinYear == 2021).Sum(el => el.ValueCount)-1)*100
+				Percentage = 0
 			});
 			return items;
 		}
