@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\reportfilestoragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\reportfilestoragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\components\\reports\\reportpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\components\\reports\\reportpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\reportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\reportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\ireportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\ireportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\data\\data.csv||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\data\\data.csv||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\reportfilestoragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\reportfilestoragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\data\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\data\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\util\\ireportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\util\\ireportprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.client\\src\\components\\reports\\reportpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A093DB88-F11C-4D5E-9337-3C3229C340E2}|servier.client\\servier.client.esproj|solutionrelative:servier.client\\src\\components\\reports\\reportpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\data\\data.csv||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|solutionrelative:servier.server\\data\\data.csv||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A09A13-645C-4B90-B3D9-2AE35AEA9605}|Servier.Server\\Servier.Server.csproj|c:\\users\\k.goncharov\\source\\repos\\servier\\servier.server\\models\\salesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,56 +102,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "Servier.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\appsettings.json",
-              "RelativeToolTip": "Servier.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-23T14:28:04.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Program.cs",
-              "RelativeDocumentMoniker": "Servier.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Program.cs",
-              "RelativeToolTip": "Servier.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T05:04:46.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ReportProvider.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ReportProvider.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Util\\ReportProvider.cs",
               "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\ReportProvider.cs",
               "RelativeToolTip": "Servier.Server\\Util\\ReportProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwEAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T19:14:29.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "IReportProvider.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\IReportProvider.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Util\\IReportProvider.cs",
               "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Util\\IReportProvider.cs",
               "RelativeToolTip": "Servier.Server\\Util\\IReportProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T19:14:19.646Z",
               "EditorCaption": ""
@@ -171,13 +145,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ReportsController.cs",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "Servier.Server\\Controllers\\ReportsController.cs",
               "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Controllers\\ReportsController.cs",
               "RelativeToolTip": "Servier.Server\\Controllers\\ReportsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:58:24.372Z",
               "EditorCaption": ""
@@ -197,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ReportPage.tsx",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\src\\components\\Reports\\ReportPage.tsx",
               "RelativeDocumentMoniker": "servier.client\\src\\components\\Reports\\ReportPage.tsx",
@@ -234,20 +208,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\package.json",
               "RelativeDocumentMoniker": "servier.client\\package.json",
               "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\servier.client\\package.json",
               "RelativeToolTip": "servier.client\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-22T18:23:05.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "data.csv",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Data\\data.csv",
               "RelativeDocumentMoniker": "Servier.Server\\Data\\data.csv",
@@ -259,8 +233,38 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Servier.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\appsettings.json",
+              "RelativeToolTip": "Servier.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T14:28:04.274Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Servier.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Program.cs",
+              "RelativeToolTip": "Servier.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:04:46.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "data.csv",
               "DocumentMoniker": "C:\\Users\\k.goncharov\\source\\repos\\Servier\\Servier.Server\\Data\\data.csv",
               "RelativeDocumentMoniker": "Servier.Server\\Data\\data.csv",

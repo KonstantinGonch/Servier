@@ -22,5 +22,21 @@ namespace Servier.Server.Controllers
 			var report = _reportProvider.GetReportSalesItems();
 			return report;
 		}
+
+		[HttpGet]
+		[Route("getSalesIncrease")]
+		public async Task<IEnumerable<SalesIncreaseReportItem>> GetSalesIncreaseReport([FromQuery] DivisionType divisionType)
+		{
+			var report = _reportProvider.GetSalesIncreaseReport(divisionType);
+			return report;
+		}
+
+		[HttpGet]
+		[Route("getYearlyIncrease")]
+		public async Task<IEnumerable<ReportItemIncreaseByYears>> GetYearlyIncreaseReport([FromQuery] string byItem, [FromQuery] string byShop)
+		{
+			var report = _reportProvider.GetYearlyIncreaseReportData(byItem, byShop);
+			return report;
+		}
 	}
 }
