@@ -12,7 +12,7 @@ namespace Servier.Server.Util
 
 		public IEnumerable<SalesItem> GetReportSalesItems()
 		{
-			throw new NotImplementedException();
+			return _fileStorageManager.GetSalesItemsFromFile();
 		}
 	}
 }
